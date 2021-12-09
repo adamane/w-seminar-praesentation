@@ -21,12 +21,13 @@
       id="highlight-theme"
     />
   </head>
+
   <body>
     <div class="reveal">
       <div class="slides">
         <section>
           <h2>Quantencomputer</h2>
-          <h4>Und ihr Einfluss auf moderne IT-Infrastruktur</h4>
+          <h3>Und ihr Einfluss auf moderne IT-Infrastruktur</h4>
         </section>
 
         <section data-auto-animate>
@@ -43,7 +44,7 @@
             </span>
           </section>
 
-          <section>
+          <section data-auto-animate>
             <blockquote cite="Richard Feynman">
               „Ich denke, man kann mit Sicherheit sagen, dass niemand die
               Quantenmechanik versteht.“ <br />
@@ -52,18 +53,27 @@
           </section>
         </section>
 
-        <section data-visibility="hidden">
-          <p class="fragment">Test 1</p>
-          <p class="fragment fade-in-then-out">Test 2</p>
-          <p class="fragment fade-in-then-semi-out">Test 3</p>
-          <p class="fragment fade-up">Test 4</p>
+        <section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)" data-transition="zoom-out">
+          <h3>Kleiner abstecher in die <span class="fragment highlight-blue">Quanten</span>physik</h3>
         </section>
+
+        <section data-auto-animate data-transition="zoom-in">
+          <h3 style="margin-top: 30px;">Kleiner abstecher in die <span style="color: #1b91ff;">Quanten</span>physik</h3>
+          <section>
+            <blockquote>
+              "kleinstmögliche Wert einer physikalischen Größe“ <br>
+              ~ Oxford Dictionary
+            </blockquote>
+          </section>
+          <section>
+            Für Quantenobjekte gelten andere physikalische Gesetze
+          </section>
+        </section>
+
         <section>
-          Slide 3
-          <aside class="notes">
-            Hier leben meine verdeckten Sprechernotizen
-          </aside>
+          <h2></h2> 
         </section>
+
       </div>
     </div>
 
@@ -80,10 +90,12 @@
         hash: true,
         controls: false,
         slideNumber: true,
-        showSlideNumber: "speaker",
+        showSlideNumber: "all",
         transition: "convex", // none/fade/slide/convex/concave/zoom
         // Learn about plugins: https://revealjs.com/plugis/
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom],
+        autoAnimate: true,
+
       });
     </script>
   </body>
