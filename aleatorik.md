@@ -2,7 +2,7 @@
 
 ##### Adrian Triller und Bonnie Pott-Meng
 
-----
+---
 
 ### <span class="fragment highlight-blue"> Alea</span>torik
 
@@ -25,7 +25,7 @@ Lat. aleatorius
 
 <span style="font-weight: 600"> -> Zum Spieler gehörig </span>
 
-----
+---
 
 ### Geschichte
 
@@ -33,8 +33,6 @@ Lat. aleatorius
 - Erste Verwendung in 1954 von Werner Mayer-Eppler
 - Transfer in die Musik in den Darmstädter Ferienkursen 1957
 - Erster Einfluss auf die Musik in Pierre Boulez's Vortrag "Alea"
-
-
 
 -Notizen: WErner Mayer-Eppler war Physiker, Phönetiker und vorbereiter der Elektronischen Musik
 Er war ein der Erfinder hinter dem Vocoder
@@ -45,7 +43,7 @@ Die Darmstädter Ferienkurse:
 - mehrwöchige Seminare
 - erkunden/erklären von Strömen in der Neuen Musik
 
----- 
+---
 
 ### Einfluss auf die Musik
 
@@ -64,7 +62,7 @@ Die Darmstädter Ferienkurse:
 <li class="fragment fade-in"> -> Gelenkter Zufall </li>
 </ul>
 
----- 
+---
 
 ### Gelenkter Zufall
 
@@ -87,7 +85,7 @@ Die Darmstädter Ferienkurse:
 <li class="fragment fade-in"> Vorherige Notengruppe bestimmt Dynamik, Anschlagsform und Geschwindigkeit </li>
 </ul>
 
-----
+---
 
 ### Wichtige Künstler
 
@@ -101,10 +99,9 @@ Die Darmstädter Ferienkurse:
 
 Cage: USA
 
-----
+---
 
 ### John Cage
-
 
 <li class="fragment fade-in"> Privatschüler von Schönberg
 <li class="fragment fade-in"> Experte aleatorischer Werke und der neuen Musik </li>
@@ -112,17 +109,15 @@ Cage: USA
 <li class="fragment fade-in"> Zufall aus einem chinesischen Weisheitsbuch und geworfenen Münzen </li>
 <li class="fragment fade-in"> Besonderen Fokus auf Zufall, aber auch die Stille
 
-
--Notizen: 
+-Notizen:
 Stille: 4:33: Instrumentalist bleibt still-> Geräusche der Zuschauer und Umgebung als Musik
 Unterschied Cage zu Stockhausen: Zufall beim komponieren | Zufall beim Aufführen
 
-Hörbeispiel 
-https://www.youtube.com/watch?v=tKrwCkHQRco  (living room)
-https://www.youtube.com/watch?v=AWVUp12XPpU  (433)
+Hörbeispiel
+https://www.youtube.com/watch?v=tKrwCkHQRco (living room music)
+https://www.youtube.com/watch?v=AWVUp12XPpU (433)
 
-
-----
+---
 
 <blockquote>
 “The highest purpose is to have no purpose at all. This puts one in accordance with nature, in her manner of operation.” 
@@ -132,7 +127,7 @@ https://www.youtube.com/watch?v=AWVUp12XPpU  (433)
 Zweckfreies hören mit leerem geist war für Cage wichtig
 Loslösen vom Schubladendenken: Wenn sie es nicht Musik nennen wollen, nennen sie es anders
 
-----
+---
 
 - https://www.youtube.com/watch?v=oYgSPZaslCI
 - https://www.youtube.com/watch?v=AWVUp12XPpU
