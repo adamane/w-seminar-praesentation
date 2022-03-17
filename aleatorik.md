@@ -1,5 +1,7 @@
 # Aleatorik
 
+##### Adrian Triller und Bonnie Pott-Meng
+
 ----
 
 ### <span class="fragment highlight-blue"> Alea</span>torik
@@ -90,9 +92,9 @@ Die Darmstädter Ferienkurse:
 ### Wichtige Künstler
 
 <ul>
-<li class="fragment fade-in"> Pierre Boulez </li>
-<li class="fragment fade-in"> Karlheinz Stockhausen </li>
-<li class="fragment fade-in"> John Cage </li>
+<li class="fragment fade-in" data-fragment-index=1> Pierre Boulez </li>
+<li class="fragment fade-in" data-fragment-index=1> Karlheinz Stockhausen </li>
+<li class="fragment fade-in" data-fragment-index=2> John Cage </li>
 </ul>
 
 -Notizen: Boulez &Stockhausen EU
@@ -107,7 +109,7 @@ Cage: USA
 <li class="fragment fade-in"> Privatschüler von Schönberg
 <li class="fragment fade-in"> Experte aleatorischer Werke und der neuen Musik </li>
 <li class="fragment fade-in"> Ziel: den Klang von jeglicher Regel befreihen
-<li class="fragment fade-in"> Zufall aus einem Chinesischen Weisheitsbuch und geworfenen Münzen </li>
+<li class="fragment fade-in"> Zufall aus einem chinesischen Weisheitsbuch und geworfenen Münzen </li>
 <li class="fragment fade-in"> Besonderen Fokus auf Zufall, aber auch die Stille
 
 
